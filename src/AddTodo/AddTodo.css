@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 20px auto;
+}
+input {
+  height: 50px;
+  border: none;
+}
+button {
+  border: none;
+  padding: 20px;
+  background-color: blanchedalmond;
+  margin-top: 10px;
+}
